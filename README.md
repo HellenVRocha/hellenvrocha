@@ -1,4 +1,4 @@
-## Oi,me chamo **Hellen Rocha**
+## Olá, me chamo **Hellen Rocha**
 ***
 - Atualmente estou aprendendo **SQL e Power BI** estudando através de vídeosaulas e pelo curso da CoderHouse de *Data Analytics*;
 
