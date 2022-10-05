@@ -6,7 +6,7 @@
 
 - Vocês podem me encontrar atraves do meu e-mail **rochahellen95@gmail.com** 📧 ou perfil do Linkedin https://www.linkedin.com/in/rochahellen/ 🔗
 
-- Começando a utilizar a plataforma GitHub para construção de Portfolio profissional, fiquem a vontade para pontuar possíveis dicas  	:relieved:
+- Utilizando a plataforma para construção de Portfolio profissional (*em andamento*), fiquem a vontade para pontuar possíveis dicas e trocar experiências 	:relieved: .
 
 
 
